@@ -14,4 +14,4 @@ A Python tool that scrapes all links from any website and saves them to a file.
 4. Links saved automatically to a .txt file
 
 ## Built by
-cyber-py-dev a python developer on github
+cyber-py-dev 
